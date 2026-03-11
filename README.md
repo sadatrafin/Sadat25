@@ -65,9 +65,9 @@ A minimal and responsive To-Do application where users can add, edit, delete, an
 ---
 
 # 📊 Stats
-![Sadat25's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadat25&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sadat25&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alamin-Coding&layout=compact&theme=radical)
+![Sadat25's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadatrafin&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sadatrafin&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadatrafin&layout=compact&theme=radical)
 
 ---
 
