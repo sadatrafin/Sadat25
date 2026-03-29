@@ -91,4 +91,4 @@ I am a self-motivated and dedicated developer with a strong desire to learn and 
 
 ---
 
-### ⭐ If you like my work, feel free to ⭐ my repositories!!
+### ⭐ If you like my work, feel free to ⭐ my repositories!
